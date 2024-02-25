@@ -3,17 +3,24 @@
 ```markdown
 # Proyecto de Web Scraping con Flask
 
-Este proyecto tiene como objetivo realizar web scraping en el sitio web de MercadoLibre y mostrar los resultados en un archivo CSV. La aplicación, creada con Flask, permite a los usuarios ingresar un producto y seleccionar un país para buscar información sobre el mismo en MercadoLibre. Los resultados del web scraping se almacenan en un archivo CSV para su fácil acceso y análisis.
+Este proyecto tiene como objetivo realizar web scraping en el sitio web de MercadoLibre
+y mostrar los resultados en un archivo CSV. La aplicación, creada con Flask, permite
+a los usuarios ingresar un producto y seleccionar un país para buscar información
+sobre el mismo en MercadoLibre. Los resultados del web scraping se almacenan
+en un archivo CSV para su fácil acceso y análisis.
 
 ## Funcionalidades
 
-- **Búsqueda de Productos:** Los usuarios pueden ingresar el nombre de un producto y seleccionar el país para buscar información en MercadoLibre.
-- **Web Scraping:** La aplicación realiza web scraping para obtener información detallada sobre el producto, incluyendo títulos, precios, enlaces a productos y enlaces a imágenes.
-- **Exportación a CSV:** Los resultados del web scraping se exportan a un archivo CSV para su posterior análisis.
+- **Búsqueda de Productos:** Los usuarios pueden ingresar el nombre de un producto
+y seleccionar el país para buscar información en MercadoLibre.
+- **Web Scraping:** La aplicación realiza web scraping para obtener información
+detallada sobre el producto, incluyendo títulos, precios, enlaces a productos y enlaces a imágenes.
+- **Exportación a CSV:** Los resultados del web scraping se exportan a un
+archivo CSV para su posterior análisis.
 
 ## Integrantes del Proyecto
 
-- **William Leyton:** Desarrollador principal, responsable de la implementación del web scraping y la lógica de la aplicación.
+- **William Leyton:** Desarrollador principal, responsable del codigo, la implementación del web scraping y la lógica de la aplicación.
 
 ## Requisitos
 
